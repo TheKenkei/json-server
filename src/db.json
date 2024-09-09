@@ -1,0 +1,13 @@
+{
+  "admin": {
+    "users": [
+      { "id": "1", "title": "a title", "views": 100 },
+      { "id": 5, "title": "another title", "views": 200 },
+      { "uuid": 50, "title": "another title", "views": 200 }
+    ],
+    "services": [
+      { "id": 10, "title": "a title", "views": 100 },
+      { "id": 100, "title": "another title", "views": 200 }
+    ]
+  }
+}
